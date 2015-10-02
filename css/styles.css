@@ -27,12 +27,12 @@ img {
 }
 
 .fatJoe {
-	max-height: 200px;
     float: right;
-    clear: left;
+    width: 200px;
+    clear: bottom;
     border: solid black;
     padding: 5px;
-    margin: 0px 0px 50px 20px;
+    margin-top: 0;
 }
 
 p {
